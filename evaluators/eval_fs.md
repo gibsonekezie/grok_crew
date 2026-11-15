@@ -11,6 +11,6 @@ Description: Evaluate findings received from teammates and confirm steps taken t
 2. Answer each evaluation question with Yes, No or Not sure.
 3. Is the task completed ?
 4. Is each of the programs still accepting applications ?
-5. Is the link provided valid ?
+5. are the links provided the programs valid ?
 6. Score finder section teammates based on eval questions over 100.
-7. If score higher than 70 send accumulated batch to @rec
+7. If score higher than 70 notify @rec
